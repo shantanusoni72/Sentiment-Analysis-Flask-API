@@ -12,3 +12,5 @@
 3. Run the server
    
      `python3 app.py`
+
+**Note**: Postman needed for performing POST operations.
